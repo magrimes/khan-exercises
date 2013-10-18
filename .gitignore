@@ -2,3 +2,5 @@
 _hashed-*.js
 exercises-packed
 exercises-packed.zip
+*~
+*.swp
